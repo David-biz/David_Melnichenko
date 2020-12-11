@@ -1,0 +1,13 @@
+C:\Users\SASHA\Desktop\Laboratory_7\Laboratory_7\Laboratory_7\bin\Debug\netcoreapp3.1\Laboratory_7_1.exe
+C:\Users\SASHA\Desktop\Laboratory_7\Laboratory_7\Laboratory_7\bin\Debug\netcoreapp3.1\Laboratory_7_1.deps.json
+C:\Users\SASHA\Desktop\Laboratory_7\Laboratory_7\Laboratory_7\bin\Debug\netcoreapp3.1\Laboratory_7_1.runtimeconfig.json
+C:\Users\SASHA\Desktop\Laboratory_7\Laboratory_7\Laboratory_7\bin\Debug\netcoreapp3.1\Laboratory_7_1.runtimeconfig.dev.json
+C:\Users\SASHA\Desktop\Laboratory_7\Laboratory_7\Laboratory_7\bin\Debug\netcoreapp3.1\Laboratory_7_1.dll
+C:\Users\SASHA\Desktop\Laboratory_7\Laboratory_7\Laboratory_7\bin\Debug\netcoreapp3.1\Laboratory_7_1.pdb
+C:\Users\SASHA\Desktop\Laboratory_7\Laboratory_7\Laboratory_7\obj\Debug\netcoreapp3.1\Laboratory_7_1.csprojAssemblyReference.cache
+C:\Users\SASHA\Desktop\Laboratory_7\Laboratory_7\Laboratory_7\obj\Debug\netcoreapp3.1\Laboratory_7_1.csproj.CoreCompileInputs.cache
+C:\Users\SASHA\Desktop\Laboratory_7\Laboratory_7\Laboratory_7\obj\Debug\netcoreapp3.1\Laboratory_7_1.AssemblyInfoInputs.cache
+C:\Users\SASHA\Desktop\Laboratory_7\Laboratory_7\Laboratory_7\obj\Debug\netcoreapp3.1\Laboratory_7_1.AssemblyInfo.cs
+C:\Users\SASHA\Desktop\Laboratory_7\Laboratory_7\Laboratory_7\obj\Debug\netcoreapp3.1\Laboratory_7_1.dll
+C:\Users\SASHA\Desktop\Laboratory_7\Laboratory_7\Laboratory_7\obj\Debug\netcoreapp3.1\Laboratory_7_1.pdb
+C:\Users\SASHA\Desktop\Laboratory_7\Laboratory_7\Laboratory_7\obj\Debug\netcoreapp3.1\Laboratory_7_1.genruntimeconfig.cache
